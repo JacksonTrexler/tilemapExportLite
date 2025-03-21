@@ -1,12 +1,13 @@
-*Currently, it:*
-Pixel-by-pixel tilemap generation
-Hash-based color matching (fast, clean, customizable)
-Easy to extend by modifying color_map
-CSV output perfect for Tiled, engine import, or debugging
-Default fallback tile ID
+Quick 'n dirty tool to export tilemaps you make in MS Paint into something useful!
+
+- Pixel-by-pixel tilemap generation
+- PHash-based color matching (fast, clean, customizable)
+- PEasy to extend by modifying color_map
+- PCSV output perfect for Tiled, engine import, or debugging
+- PDefault fallback tile ID
 
 *Might add later:*
-BMP export for visual debug
-Tiled .tmx export
-Auto-color palette generator
-Grayscale intensity → heightmap conversion
+- PBMP export for visual debug
+- PTiled .tmx export
+- PAuto-color palette generator
+- PGrayscale intensity → heightmap conversion
